@@ -5,7 +5,7 @@ Learning how to implement a simple API with resources, controllers, services and
 # Contents
 
 ## API Layer / Controller Layer
-HTTP, GET, POST, DELETE, PUT
+HTTP, GET, POST, DELETE, PUT API calls
 
 ## Service Layer
 Business Logic
