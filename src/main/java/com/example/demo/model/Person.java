@@ -1,11 +1,12 @@
 package com.example.demo.model;
 import java.util.UUID;
 
+
 public class Person {
     private final UUID id;
-    private final string name;
+    private final String name;
 
-    public Person(UUID id, string name) {
+    public Person(UUID id, String name) {
         this.id = id;
         this.name = name;
     }
@@ -14,7 +15,7 @@ public class Person {
         return id;
     }
 
-    public string getName() {
+    public String getName() {
         return  name;
     }
 
